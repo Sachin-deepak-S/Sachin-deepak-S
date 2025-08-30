@@ -1,3 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=80&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Sachin+Deepak;ECE+Prefinal+Year+Student;UI/UX+Designer+%26+Frontend+Developer;Exploring+PCB+%26+Power+BI;Python+%26+React+Learner" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile Image / Illustration -->
+<img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
+
+<br/>
+
 # 💫 About Me:
 🎓 ECE Prefinal Year Student<br>💻 Interested in UI/UX designing & Front End Development<br>⚡ Exploring PCB & Power BI<br>📚 Currently learning Python & React<br> 🌱 Love to solve complex problems
 
