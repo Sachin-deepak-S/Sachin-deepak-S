@@ -7,7 +7,7 @@
 </div>
 
 <!-- Profile Image / Illustration -->
-<img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
+
 
 <br/>
 
