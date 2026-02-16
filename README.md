@@ -162,7 +162,7 @@ IoT-based energy monitoring and optimization system for smart homes.
 </p>
 </td>
 </tr>
-</table>>
+</table>
 
 ---
 
@@ -175,8 +175,6 @@ I'm always interested in working on:
 - 📱 Embedded systems development
 
 Feel free to reach out if you want to collaborate or just chat about tech!
-
----
 
 ---
 
