@@ -95,17 +95,70 @@ IoT-based energy monitoring and optimization system for smart homes.
 
 ---
 
-## 📈 Pinned Repositories
+## 📈 Featured Repositories
 
-<div align="center">
-
-[![Safe Vision Hub](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Safe-Vision-Hub&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Safe-Vision-Hub)
-[![Retrace-AI](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Retrace-AI&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Retrace-AI)
-
-[![Food Delivery App UI](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Food-delivery-app-ui&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Food-delivery-app-ui)
-[![WattWhisper](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=WattWhisper&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/WattWhisper)
-
-</div>
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">🛰 Safe Vision Hub</h3>
+<p align="center">
+<a href="https://github.com/Sachin-deepak-S/Safe-Vision-Hub">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">AI-powered safety monitoring system with real-time threat detection using computer vision.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🤖 Retrace-AI</h3>
+<p align="center">
+<a href="https://github.com/Sachin-deepak-S/Retrace-AI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">Machine learning platform for predictive analytics and data-driven insights.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🍔 Food Delivery App UI</h3>
+<p align="center">
+<a href="https://github.com/Sachin-deepak-S/Food-delivery-app-ui">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">Modern, responsive food delivery interface with smooth animations.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">⚡ WattWhisper</h3>
+<p align="center">
+<a href="https://github.com/Sachin-deepak-S/WattWhisper">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">IoT-based energy monitoring and optimization for smart homes.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internet-of-things&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded-E34F26?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>>
 
 ---
 
