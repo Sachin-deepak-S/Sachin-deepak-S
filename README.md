@@ -97,23 +97,15 @@ IoT-based energy monitoring and optimization system for smart homes.
 
 ## 📈 Pinned Repositories
 
-<p align="center">
-<a href="https://github.com/Sachin-deepak-S/Safe-Vision-Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Safe-Vision-Hub&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Sachin-deepak-S/Retrace-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Retrace-AI&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/Sachin-deepak-S/Food-delivery-app-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Food-delivery-app-ui&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Sachin-deepak-S/WattWhisper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=WattWhisper&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+[![Safe Vision Hub](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Safe-Vision-Hub&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Safe-Vision-Hub)
+[![Retrace-AI](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Retrace-AI&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Retrace-AI)
+
+[![Food Delivery App UI](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Food-delivery-app-ui&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/Food-delivery-app-ui)
+[![WattWhisper](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=WattWhisper&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Sachin-deepak-S/WattWhisper)
+
+</div>
 
 ---
 
