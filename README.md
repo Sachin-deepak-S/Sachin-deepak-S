@@ -75,15 +75,16 @@ IoT-based energy monitoring and optimization system for smart homes.
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🎯 Current Focus
