@@ -7,52 +7,10 @@ Building intelligent systems that bridge <b>Hardware & Software</b>.<br>
 Focused on scalable engineering, clean UI, and real-world problem solving.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Prefinal Year ECE Student  
-- 💻 Frontend Developer (React + JavaScript)  
-- 🎨 UI/UX Designer (Figma)  
-- 📊 Exploring Data Visualization & Power BI  
-- 🔌 Learning PCB Design & Embedded Systems  
-- 🧠 Strong interest in system architecture  
-
----
-
-## 🔥 Featured Projects
-
-- 🛰 **Safe Vision Hub** – AI-powered safety monitoring system  
-- 🤖 **Retrace-AI** – Machine learning predictive analytics platform  
-- 🍔 **Food Delivery App UI** – Responsive frontend system  
-- ⚡ **WattWhisper** – IoT-based energy optimization concept  
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/sachin-deepak-s">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:sachindeepak4181@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -60,64 +18,114 @@ Focused on scalable engineering, clean UI, and real-world problem solving.
 
 ---
 
+## 🚀 About Me
+
+- 🎓 Prefinal Year ECE Student passionate about system design
+- 💼 Frontend Developer specializing in **React** & **JavaScript**
+- 🎨 UI/UX Designer crafting user-centered experiences in **Figma**
+- 🔭 Currently exploring: **Data Visualization** (Power BI) & **PCB Design** (KiCad)
+- 🧠 Deep interest in **hardware-software integration** and embedded systems
+- 🌱 Learning: Advanced React patterns, IoT protocols, and circuit design
+- 📫 Reach me: **sachindeepak4181@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Frontend & Design**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Tools & Platforms**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🛰 [Safe Vision Hub](https://github.com/Sachin-deepak-S/Safe-Vision-Hub)
+AI-powered safety monitoring system leveraging computer vision for real-time threat detection.  
+**Tech:** Python, OpenCV, Machine Learning  
+
+### 🤖 [Retrace-AI](https://github.com/Sachin-deepak-S/Retrace-AI)
+Machine learning platform for predictive analytics and data-driven decision making.  
+**Tech:** Python, scikit-learn, Flask, Data Visualization  
+
+### 🍔 [Food Delivery App UI](https://github.com/Sachin-deepak-S/Food-delivery-app-ui)
+Modern, responsive food delivery interface with smooth animations and intuitive UX.  
+**Tech:** React, JavaScript, CSS3  
+
+### ⚡ [WattWhisper](https://github.com/Sachin-deepak-S/WattWhisper)
+IoT-based energy monitoring and optimization system for smart homes.  
+**Tech:** IoT, Embedded Systems, Data Analytics  
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-deepak-S&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sachin-deepak-S&theme=tokyonight&no-frame=true&margin-w=8" />
-</p>
+- Building full-stack applications with React and Node.js
+- Designing PCBs for embedded system projects
+- Exploring Power BI for advanced data visualization
+- Contributing to open-source hardware and software projects
 
 ---
 
-## 📌 Featured Repositories
+## 📈 Pinned Repositories
 
 <p align="center">
 <a href="https://github.com/Sachin-deepak-S/Safe-Vision-Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Safe-Vision-Hub&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Safe-Vision-Hub&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/Sachin-deepak-S/Retrace-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Retrace-AI&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Retrace-AI&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Sachin-deepak-S/Food-delivery-app-ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Food-delivery-app-ui&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=Food-delivery-app-ui&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/Sachin-deepak-S/WattWhisper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=WattWhisper&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin-deepak-S&repo=WattWhisper&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Let's Collaborate!
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-contribution-grid-snake.svg" />
-</p>
+I'm always interested in working on:
+- 🔌 Hardware-software integration projects
+- 🎨 UI/UX design challenges
+- 🤖 Machine learning applications
+- 📱 Embedded systems development
+
+Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
