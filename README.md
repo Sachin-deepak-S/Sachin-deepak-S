@@ -1,91 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sachin Deepak S</h1>
-<h3 align="center">ECE Prefinal Year | UI/UX Enthusiast | Frontend Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header&text=Sachin%20Deepak%20S&fontSize=50&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://github.com/Sachin-deepak-S">
-    <img src="https://komarev.com/ghpvc/?username=Sachin-deepak-S&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=ECE+Prefinal+Year+Student;UI%2FUX+Designer+%26+Frontend+Developer;Exploring+PCB+Design+%26+Power+BI;Python+%26+React+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
 ## 💫 About Me
+I am a **Prefinal Year ECE Student** passionate about bridging the gap between hardware and software. My focus lies in creating intuitive user experiences through **UI/UX Design** and building robust interfaces with **Frontend Development**.
 
-- 🎓 Prefinal year **Electronics and Communication Engineering** student  
-- 💻 Passionate about **UI/UX designing** & **Front End Development**  
-- ⚡ Currently exploring **PCB Design** & **Power BI**  
-- 📚 Learning **Python** and **React** to build better user experiences  
-- 🌱 I love solving complex problems and turning ideas into reality  
-
-📫 How to reach me: **[your-email@example.com]**  
-⚡ Fun fact: I can spend hours perfecting a single pixel!  
+* 🌱 **Currently learning:** Python, React, and PCB Design.
+* 📊 **Exploring:** Data Visualization with Power BI.
+* ⚡ **Fun fact:** I love deconstructing complex problems into scalable solutions.
 
 ---
 
-## 🌐 Socials
-
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s_sachin35745)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-deepak-s)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sachin-deepak-S)
-
-*(Replace the email placeholder with your actual email if you wish to share it)*
+## 🌐 Connect with Me
+<div align="left">
+<a href="https://linkedin.com/in/sachin-deepak-s/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sachin-deepak-s" /></a>
+<a href="https://x.com/s_sachin35745" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="s_sachin35745" /></a>
+<a href="mailto:sachindeepak4181@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sachindeepak4181@gmail.com" /></a>
+</div>
 
 ---
 
 ## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Languages & Frameworks
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 🛠️ Tools & Databases
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=ocean_dark" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=ocean_dark" alt="streak stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachin-deepak-S&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-> **Note:** If the trophy image does not load, it might be due to a temporary issue with the trophy generator service. Please check back later or use an alternative stats card.
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachin-deepak-S&theme=radical&no-bg=true&column=4" />
+</div>
 
 ---
 
-## 📌 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sachin-deepak-S&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
-<p align="center">Made with ❤️ by Sachin Deepak S</p>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Sachin-deepak-S&icon=0&color=0" alt="visitor count" />
+</div>
