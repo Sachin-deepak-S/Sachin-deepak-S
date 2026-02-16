@@ -178,6 +178,18 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake.svg">
+</picture>
+
+---
+
 ## 👀 Profile Views
 
 <p align="center">
