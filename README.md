@@ -24,16 +24,15 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio.com)  
-*(Replace the links above with your actual profiles)*
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/s_sachin35745)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-deepak-s)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Sachin-deepak-S)
+
+*(Replace the email placeholder with your actual email if you wish to share it)*
 
 ---
 
 ## 💻 Tech Stack
-
-Here are some of the technologies I work with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,18 +43,6 @@ Here are some of the technologies I work with:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-## 🚀 My Projects
-
-Here are a few projects I’ve worked on:
-
-- **[Project Name One](https://github.com/Sachin-deepak-S/project-repo)** – A brief description of what it does and the tech used.  
-- **[Project Name Two](https://github.com/Sachin-deepak-S/another-repo)** – A brief description highlighting its features.  
-- **[Portfolio Website](https://github.com/Sachin-deepak-S/portfolio)** – My personal portfolio built with React and CSS.
-
-*(Add or remove projects as needed, and update the links with your actual repositories)*
 
 ---
 
