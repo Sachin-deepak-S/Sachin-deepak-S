@@ -1,78 +1,102 @@
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=header&text=Sachin%20Deepak%20S&fontSize=50&animation=fadeIn&fontColor=f0f0f0" /&gt;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=140&section=header&text=Sachin%20Deepak%20S&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 
-&lt;div align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=ECE+Prefinal+Year+Student;UI%2FUX+Designer+%26+Frontend+Developer;Exploring+PCB+Design+%26+Power+BI;Python+%26+React+Enthusiast;Problem+Solver" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+<h2 align="center">ECE Student | UI/UX Designer | Frontend Developer</h2>
 
-&lt;br/&gt;
-
-## 💫 About Me
-
-I am a **Prefinal Year ECE Student** passionate about bridging the gap between hardware and software. My focus lies in creating intuitive user experiences through **UI/UX Design** and building robust interfaces with **Frontend Development**.
-
-- 🌱 **Currently learning:** Python, React, and PCB Design
-- 📊 **Exploring:** Data Visualization with Power BI
-- ⚡ **Fun fact:** I love deconstructing complex problems into scalable solutions
+<p align="center">
+Passionate about building intelligent systems that bridge <b>Hardware & Software</b>.  
+Focused on creating scalable products with clean UI and strong engineering fundamentals.
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 About Me
 
-&lt;div align="left"&gt;
-  &lt;a href="https://linkedin.com/in/sachin-deepak-s/" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://x.com/s_sachin35745" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:sachindeepak4181@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+- 🎓 Prefinal Year ECE Student  
+- 💻 Frontend Developer (React + JS)  
+- 🎨 UI/UX Designer (Figma)  
+- 📊 Exploring Power BI & Data Visualization  
+- 🔌 Learning PCB Design & Embedded Systems  
+- 🧠 Strong interest in problem solving & system thinking  
+
+---
+
+## 🔥 Featured Projects
+
+### 🛰️ Safe Vision Hub  
+AI-powered safety monitoring system integrating vision models and dashboard analytics.
+
+### 🤖 Retrace-AI  
+Machine learning-based retracing and predictive analytics platform.
+
+### 🍔 Food Delivery App UI  
+Complete frontend UI system built with React principles and UX-focused design.
+
+### ⚡ WattWhisper  
+Energy monitoring & optimization concept with IoT integration.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🧑‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🛠️ Tools & Databases
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### ⚛️ Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-## 📊 GitHub Analytics
-
-&lt;div align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true" /&gt;
-&lt;/div&gt;
-
-&lt;div align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/div&gt;
-
-### 🏆 Achievements
-
-&lt;div align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=Sachin-deepak-S&theme=radical&no-bg=true&no-frame=true&column=4" /&gt;
-&lt;/div&gt;
+### 🛠 Tools & Platforms
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Sachin-deepak-S&color=0066ff&style=flat-square" alt="Profile Views" /&gt;
-&lt;/div&gt;
+## 🌐 Connect With Me
 
-&lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=100&section=footer" /&gt;
+<p align="left">
+<a href="https://www.linkedin.com/in/sachin-deepak-s" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/s_sachin35745" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:sachindeepak4181@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-deepak-S&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-deepak-S&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sachin-deepak-S&color=0066ff&style=flat-square" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer" />
