@@ -78,8 +78,6 @@ IoT-based energy monitoring and optimization system for smart homes.
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachin-deepak-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sachin-deepak-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
@@ -181,9 +179,9 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin-deepak-S/Sachin-deepak-S/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
