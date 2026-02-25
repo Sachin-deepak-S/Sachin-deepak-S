@@ -60,15 +60,15 @@ Focused on scalable engineering, clean UI, and real-world problem solving.
 
 ### 🛰 [Safe Vision Hub](https://github.com/Sachin-deepak-S/Safe-Vision-Hub)
 AI-powered safety monitoring system leveraging computer vision for real-time threat detection.  
-**Tech:** Python, OpenCV, Machine Learning  
+**Tech:** Python, OpenCV, Machine Learning, React, JavaScript, CSS3  
 
 ### 🤖 [Retrace-AI](https://github.com/Sachin-deepak-S/Retrace-AI)
 Machine learning platform for predictive analytics and data-driven decision making.  
-**Tech:** Python, scikit-learn, Flask, Data Visualization  
+**Tech:** Python, scikit-learn, Flask, Data Visualization, React, JavaScript, CSS3  
 
 ### 🍔 [Food Delivery App UI](https://github.com/Sachin-deepak-S/Food-delivery-app-ui)
 Modern, responsive food delivery interface with smooth animations and intuitive UX.  
-**Tech:** React, JavaScript, CSS3  
+**Tech:** Figma  
 
 ### ⚡ [WattWhisper](https://github.com/Sachin-deepak-S/WattWhisper)
 IoT-based energy monitoring and optimization system for smart homes.  
