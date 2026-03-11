@@ -29,6 +29,7 @@ Focused on scalable engineering, clean UI, and real-world problem solving.
 - 🔭 Currently exploring: **Data Visualization** (Power BI) & **PCB Design** (KiCad)
 - 🧠 Deep interest in **hardware-software integration** and embedded systems
 - 🌱 Learning: Advanced React patterns, IoT protocols, and circuit design
+- 🌐 Portfolio: https://sachin-deepak-s.netlify.app/
 - 📫 Reach me: **sachindeepak4181@gmail.com**
 
 ---
